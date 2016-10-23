@@ -12,15 +12,19 @@ Markdown là 1 ngôn ngữ đánh dấu cú pháp văn bản thô dễ viết d�
 Markdowm thường được sử dụng trong file readme.me ( file dùng để mô tả ngắn project hoặc sản phẩm) hoặc viết các tin nhắn trong các diễm đàn thảo luận và dùng để tạo ra các đoạn văn bản có câu trúc phức tạp chỉ bằng một công cụ xử lý văn bản thô.  
 ```  
 ## **Cú Pháp**  
+
 #### Tạo Tiêu Đề  
 	# hoặc ## hoặc ### <tên tiêu đề>  
+	
 #### Chữ  
+
 ```
 **In đậm:** **	chữ cần in đậm	**  
 *In nghiêng:* *	chữ cần in nghiêng	*  
 ~~Chữgạchngang~~:~~	chữ cần gạch ngang	~~  
 ```  
 #### Xuống dòng  
+
 ```  
 Thêm 2 dấu cách cuối câu rồi ấn enter xuống dòng  
 ```  
