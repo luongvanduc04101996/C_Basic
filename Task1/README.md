@@ -50,7 +50,9 @@ https://www.google.com.vn/
 * Tương tự như liên kết nhưng phía trước có dấu chấm than:` ! [] (Link)  `
 * Ví dụ:  
 ![](http://vanvat.net/hinhanh/anhto/1498hinh-anh-con-cho-ng--ngo-nginh.jpg)  
+
 #### Tạo bảng  
+
 ```  
 |       A       |      B        |   
 | -------------:|:-------------:|   
