@@ -34,7 +34,7 @@ Dạng số: 1.  2.  3.
 Dạng bullet:-  -  -  
 ```  
 #### Tạo liên kết  
-[Tên link] (Đường dẫn)  
+`[Tên link] (Đường dẫn) `
 * Ví dụ:  
 [Đây là gu gồ](https://www.google.com.vn/)  
 
@@ -42,8 +42,10 @@ Dạng bullet:-  -  -
 Đưa đường link vào phải có (http hoặc https)  
 * Ví dụ:  
 https://www.google.com.vn/  
+
 #### Chèn hình ảnh  
-* Tương tự như liên kết nhưng phía trước có dấu chấm than: ! [] (Link)  
+
+* Tương tự như liên kết nhưng phía trước có dấu chấm than:` ! [] (Link)  `
 * Ví dụ:  
 ![](http://vanvat.net/hinhanh/anhto/1498hinh-anh-con-cho-ng--ngo-nginh.jpg)  
 #### Tạo bảng  
@@ -54,7 +56,7 @@ https://www.google.com.vn/
 ```  
 **Ví dụ:**  
 |       A       |      B        |  
-| -------------:|:-------------:|  
+|--------------:|:-------------:|  
 |       1       |      2        |  
 
 # Đã Cài Sublime Text.  
