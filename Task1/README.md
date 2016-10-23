@@ -11,7 +11,9 @@ Markdown là 1 ngôn ngữ đánh dấu cú pháp văn bản thô dễ viết d�
  ```  
 Markdowm thường được sử dụng trong file readme.me ( file dùng để mô tả ngắn project hoặc sản phẩm) hoặc viết các tin nhắn trong các diễm đàn thảo luận và dùng để tạo ra các đoạn văn bản có câu trúc phức tạp chỉ bằng một công cụ xử lý văn bản thô.  
 ```  
+
 ## **Cú Pháp**  
+
 
 #### Tạo Tiêu Đề  
 	# hoặc ## hoặc ### <tên tiêu đề>  
@@ -55,9 +57,9 @@ https://www.google.com.vn/
 |       1       |      2        |    
 ```  
 **Ví dụ:**  
-|       A       |      B        |  
-|--------------:|:-------------:|  
-|       1       |      2        |  
+|       A       |      B        |   
+| -------------:|:-------------:|   
+|       1       |      2        | 
 
 # Đã Cài Sublime Text.  
 # ~~TheEnd~~  
