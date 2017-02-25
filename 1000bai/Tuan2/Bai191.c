@@ -1,0 +1,40 @@
+#include<stdio.h>
+void main(){
+int n,j;
+float *p;
+printf("Nhap so phan tu:\n");
+scanf("%d",&n);
+
+p=(float*)calloc(n,sizeof(float));
+
+printf("Nhap mang:\n");
+for(j=0;j<n;j++)
+{
+    scanf("%f",p+j);
+}
+
+printf("Cac cac cuc dai:\n==>");
+
+for(j=0;j<n;j++)
+{
+        if(j==0)
+        {
+           if(*(p+j+1)<*(p+j))
+                printf("%f\t",*(p+j));
+        }
+        else if(j==n-1)
+        {
+            if(*(p+j-1)<*(p+j))
+                printf("%f\t",*(p+j));
+        }
+        else
+        {
+            if(*(p+j+1)<*(p+j)&&*(p+j-1)<*(p+j))
+            {
+                printf("%f\t",*(p+j));
+            }
+        }
+
+}
+
+}
